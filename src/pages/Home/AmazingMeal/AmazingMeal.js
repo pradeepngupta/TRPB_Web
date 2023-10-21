@@ -2,11 +2,11 @@ import React, { useState } from "react";
 
 import "./AmazingMeal.css";
 
-import image1 from "../../../assets/burger.jpg";
-import image2 from "../../../assets/cheese.jpg";
-import image3 from "../../../assets/cake.jpg";
-import image4 from "../../../assets/coffee.jpg";
-import image5 from "../../../assets/pizza.jpeg";
+import image1 from "../../../assets/Paratha1.jpg";
+import image2 from "../../../assets/Paratha2.jpg";
+import image3 from "../../../assets/Paratha3.jpg";
+import image4 from "../../../assets/Paratha4.jpg";
+import image5 from "../../../assets/Paratha5.jpg";
 
 import Slider from "react-slick";
 
@@ -59,23 +59,22 @@ const AmazingMeal = () => {
               </span>
             </h2>
 
-            <h4>We hope to see you soon!</h4>
-
-            <p>
-              Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean
-              commodo ligula eget dolor. Aenean massa. Cum sociis natoque
-              penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-              Donec quam felis, ultricies nec, pellentesque eu, pretium quis,
-              sem.
+            <h3>We hope to see you soon!</h3>
+            <br />
+              <br />
+            <h4>
+             At The Royal Paratha Box Restaurant, we take immense pride in crafting our 9-inch Royal Size Parathas, each bite a delectable experience.
+             One will indulge in a culinary journey that's all about pure happiness and delightful flavors.
+             
               <br />
               <br />
-              Venenatis vitae, justo. Nullam dictum felis eu pede mollis
-              pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper
-              nisi. Aenean vulputate eleifend tellus. sem.
-            </p>
-
+              Our side dishes are a testament to the love and passion we infuse into evvery dish, ensuring they are as tasty as they are delicious.
+             
+            </h4>
+            <br />
+              <br />
             <blockquote>
-              Nulla consequat massa quis enim. Doncus ut, imperdiet a.
+            Join us for a dining expeirence like no other!.
             </blockquote>
           </div>
         </div>
@@ -92,10 +91,9 @@ const AmazingMeal = () => {
                 </h3>
               </div>
 
-              <p>
-                Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean
-                commodo ligula eget dolor.
-              </p>
+              <h4>
+                We meticulously select only the finest and freshnest ingredients to craft all our culinary creations.
+              </h4>
             </div>
           </div>
 
@@ -110,10 +108,9 @@ const AmazingMeal = () => {
                 </h3>
               </div>
 
-              <p>
-                Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean
-                commodo ligula eget dolor.
-              </p>
+              <h4>
+                To secure your exclusive dining experience, we invite you to contact us for reservations.
+              </h4>
             </div>
           </div>
         </div>

@@ -11,7 +11,7 @@ const Hero = () => {
             </h1>
             <h3 className='heading-secondary text-white'> Flavours from Home | Ghar ka Swad </h3>
             <br></br>
-            <p className='text-white'>The best paratha restaurant available in Electronic City, Bengaluru</p>
+            <p className='text-white'>The best Paratha restaurant available in Electronic City, Bengaluru</p>
 
             <p className='text-white'>
                 Book online or call <span></span>

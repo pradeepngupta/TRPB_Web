@@ -14,6 +14,12 @@
     background-color: var(--color-primary);
 }
 
+.chef-info {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
 .chef-info h4 {
     text-transform: uppercase;
 }
