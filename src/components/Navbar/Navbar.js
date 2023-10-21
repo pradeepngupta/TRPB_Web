@@ -30,7 +30,7 @@ const Navbar = () => {
       <div className="container">
         <div className="nav-bar">
           <Link to="/">
-            <img src={logo} alt="logo" width={50} />
+            <img src={logo} alt="logo" width={75} />
           </Link>
 
           <ul className={click ? "nav-menu active" : "nav-menu"}>
@@ -59,10 +59,7 @@ const Navbar = () => {
                 Contact
               </NavLink>
             </li>
-
-            <li onClick={handleClick}>
-              <button>Order now</button>
-            </li>
+            
           </ul>
 
           <div className="hamburger" onClick={handleClick}>
