@@ -1,6 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import "./Footer.css";
+import DirectionsLink from "./DirectionsLink/DirectionsLink";
 
 const Footer = () => {
   return (
@@ -8,44 +9,21 @@ const Footer = () => {
       <div className="container">
         <div className="grid-container">
           <div className="footer-grid-item">
-            <h3>enfold detroit</h3>
-            <p>4870 Cass Ave</p>
-            <p>Detroit, MI, United States</p>
-            <p>(555) 389 976</p>
-            <Link to="#" className="text-white">
-              detroit@enfold-restaurant.com
+            <h3>The Royal Paratha Box</h3>  
+            <p>Hulimanagala Main Road</p>
+            <p>DElectronic City Phase 1, Bengaluru</p>
+            <p>Karnataka, India</p>
+            <DirectionsLink place="The Royal Paratha Box, Electronic City, Bengaluru, India" />
+          </div>          
+          <div className="footer-grid-item">            
+            <Link to="tel:+916366579691" className="text-white">
+              (+91) 6366 579 691
+            </Link>  
+            <p />          
+            <Link to="mailto:theroyalparathabox@gmail.com" className="text-white">
+              theroyalparathabox@gmail.com
             </Link>
-          </div>
-
-          <div className="footer-grid-item">
-            <h3>enfold L.A.</h3>
-            <p>1818 N Vermont Ave</p>
-            <p>Los Angeles, CA, United States</p>
-            <p>(555) 774 433</p>
-            <Link to="#" className="text-white">
-              LA@enfold-restaurant.com
-            </Link>
-          </div>
-
-          <div className="footer-grid-item">
-            <h3>enfold seattle</h3>
-            <p>4326 University Way NE</p>
-            <p>Seattle, WA, United States</p>
-            <p>(555) 345 888</p>
-            <Link to="#" className="text-white">
-              seattle@enfold-restaurant.com
-            </Link>
-          </div>
-
-          <div className="footer-grid-item">
-            <h3>enfold dallas</h3>
-            <p>11311 Harry Hines Blvd</p>
-            <p>Dallas, TX, United States</p>
-            <p>(555) 389 976</p>
-            <Link to="#" className="text-white">
-              dallas@enfold-restaurant.com
-            </Link>
-          </div>
+            </div>
         </div>
       </div>
     </div>
