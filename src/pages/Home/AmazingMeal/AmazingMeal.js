@@ -52,10 +52,10 @@ const AmazingMeal = () => {
 
           <div className="amazing-content">
             <h2 className="heading-secondary">
-              Amazing meals <span className="ampersand">&#38;</span>
+              Amazing <span>Royal Paratha </span> <span className="ampersand">&#38;</span>
               <br />
               <span>
-                Great <br /> Entertainment
+                Combos / Meals
               </span>
             </h2>
 
