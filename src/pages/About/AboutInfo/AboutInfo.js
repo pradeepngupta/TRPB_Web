@@ -15,26 +15,22 @@ const AboutInfo = () => {
             <h4>Let us introduce ourselves</h4>
 
             <p>
-              Contrary to popular belief, Lorem Ipsum is not simply random text.
-              It has roots in a piece of{" "}
-              <span className="special-word">classical</span> Latin literature
-              from 45 BC, making it over 2000 years old. Richard McClintock, a
-              Latin professor at Hampden-Sydney College in Virginia, looked up
-              one of the more obscure Latin words,{" "}
-              <span className="special-word">consectetur,</span> from a Lorem
-              Ipsum passage
+              Thinking on the Cloud Kitchen Concepts, Our journey of The Royal Paratha Box started.
+              But our passion for delivering an exceptional dining experience led us to open our doors to guests.
+              Rooted in the rich culinary tradition of North India, particularly Punjab and Haryana, We celebrate the art of crafting the finest Parathas.
+              Beyond our delicious offerings, we pride ourselves on our warm hospitality and top-notch service to ensure your visit is truly special.
+
+              
             </p>
 
             <blockquote>
-              Nulla consequat massa quis enim. Doncus ut, imperdiet a.
+            COMFORTS. CLASSICS. CURIOSITIES
             </blockquote>
 
             <p>
-              Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean
-              commodo ligula eget dolor.{" "}
-              <span className="special-word">Aenean massa.</span> Cum sociis
-              natoque penatibus et magnis dis parturient montes, nascetur
-              ridiculus mus. Donec quam felis.
+            Come and discover why "The Royal Paratha Box" holds a special place in the hearts of locals and visitors alike, as we continue to redefine the essence of Parathas in the heart of Electronic City, Bengaluru.
+
+            Come take a bite out of Electronic City at The Royal Paratha Box -- we'll see you soon!
             </p>
           </div>
         </div>
@@ -42,27 +38,22 @@ const AboutInfo = () => {
         <div>
           <div className="about-info-content">
             <h2 className="heading-secondary">
-              A PLACE TO WINE, A PLACE <span>TO DINE</span>
+              A PLACE <span>TO DINE</span> WITH YOUR FAMILY AND FRIENDS
             </h2>
 
             <h4>We hope to see you soon!</h4>
 
             <p>
-              Lorem ipsum dolor sit amet,{" "}
-              <span className="special-word">consectetuer </span>adipiscing
-              elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis
-              natoque penatibus et magnis dis parturient montes, nascetur
-              ridiculus mus. Donec quam felis.
+            Located at Hulimanagala Road in Electronic City Phase 1, Bengaluru, this casual yet polished <span className="special-word">family-style North Indian Restaurant</span> features 8 indoor dining seats, and 8 seats outdoors on the semi-covered patio.
             </p>
 
             <blockquote>
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry.
+              BRUNCH | LUNCH | DINNER | DESSERTS
             </blockquote>
 
             <p>
-              Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque
-              penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+            Seasonal changes, outstanding ingredients and a made-from-scratch philosophy guide TRPB's menu of <span className="special-word">house-made Royal Parathas and Desserts</span>.
+            We always welcome walk-ins. Guests like Royal Paratha in their Brunch / Lunch / Snacks / Dinner.
             </p>
           </div>
         </div>

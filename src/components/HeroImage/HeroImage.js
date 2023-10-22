@@ -6,7 +6,7 @@ const HeroImage = (props) => {
     <div
       className="container"
       style={{
-        background: `url(${props.bgImage}) no-repeat bottom center/cover`,
+        background: `url(${props.bgImage}) no-repeat center/cover`,
         height: "60vh"
       }}
     >
