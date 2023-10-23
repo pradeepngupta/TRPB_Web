@@ -8,9 +8,9 @@ import imageItem4 from "../../../assets/Paratha2.jpg";
 import imageItem5 from "../../../assets/Lassi.jpg";
 import imageItem6 from "../../../assets/Paratha5.jpg";
 import imageItem7 from "../../../assets/chef.jpg";
-import imageItem8 from "../../../assets/cake.jpg";
-import imageItem9 from "../../../assets/coffee.jpg";
-import imageItem10 from "../../../assets/burger.jpg";
+import imageItem8 from "../../../assets/papad.jpg";
+import imageItem9 from "../../../assets/kheer.jpg";
+import imageItem10 from "../../../assets/tea.jpg";
 
 const Gallery = () => {
   return (
