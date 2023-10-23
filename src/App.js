@@ -8,6 +8,7 @@ import Contact from './pages/Contact/Contact'
 
 import Navbar from './components/Navbar/Navbar'
 import Footer from './components/Footer/Footer'
+import PrivacyPolicy from './pages/PrivacyPolicy/PrivacyPolicy'
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
         <Route path="/delivery" element={<Delivery />} />
         <Route path="/about" element={<About />} />
         <Route path="/contact" element={<Contact />} />
+        <Route path="/privacypolicy" element={<PrivacyPolicy />} />
       </Routes>
       <Footer />
     </div>

@@ -24,7 +24,12 @@ const Footer = () => {
               theroyalparathabox@gmail.com
             </Link>
             </div>
-        </div>
+            <div className="footer-grid-item">            
+              <Link to="/privacypolicy" className="text-white">
+                Privacy Policy
+              </Link>          
+          </div>
+        </div>        
       </div>
     </div>
   );

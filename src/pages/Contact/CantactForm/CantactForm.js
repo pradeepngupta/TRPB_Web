@@ -1,7 +1,8 @@
 import React from 'react'
 import './CantactForm.css'
+import { Link } from "react-router-dom";
 
-import bgImage from '../../../assets/cake.jpg'
+import bgImage from '../../../assets/kheer.jpg'
 
 const CantactForm = () => {
   return (
@@ -12,13 +13,13 @@ const CantactForm = () => {
                     get in <span>touch</span>
                 </h1>
 
-                <p>Lorem ipsum dolor sit amet, <span className='special-word'>consectetuer</span> adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient.</p>
+                <p>Send us a message and we’ll get back to you as soon as possible. You can also reach us by phone. We're looking forward to hearing from you!</p>
 
                 <img src={bgImage} alt="get in touch" />
 
-                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque <span className='special-word'>penatibus</span> et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</p>
-
-                <p>Nulla consequat massa quis enim. Donec pede justo, <span className='special-word'>fringilla</span> vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.</p>
+                <p>In order to submit your personal information you must agree to and accept the terms of our <Link to="/privacypolicy">
+                Privacy Policy
+              </Link> .</p>
             </div>
 
             <div>
@@ -29,8 +30,19 @@ const CantactForm = () => {
                 <form>
                     <div className='form-field name-email'>
                         <div>
-                            <label>Name</label>
-                            <input type="text" name='name' />
+                            <label>First Name</label>
+                            <input type="text" name='fname' />
+                        </div>
+
+                        <div>
+                            <label>Last Name</label>
+                            <input type="text" name='lname' />
+                        </div>
+                    </div>
+                    <div className='form-field name-email'>
+                        <div>
+                            <label>Phone Number</label>
+                            <input type="tel" name="phone" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" />
                         </div>
 
                         <div>

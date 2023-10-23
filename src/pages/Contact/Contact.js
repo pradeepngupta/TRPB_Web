@@ -1,7 +1,7 @@
 import React from 'react'
 
 import HeroImage from "../../components/HeroImage/HeroImage";
-import bgImage from "../../assets/cheese2.jpg";
+import bgImage from "../../assets/Paratha1.jpg";
 
 import CantactForm from './CantactForm/CantactForm'
 
