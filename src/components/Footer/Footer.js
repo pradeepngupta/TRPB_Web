@@ -11,7 +11,7 @@ const Footer = () => {
           <div className="footer-grid-item">
             <h3>The Royal Paratha Box</h3>  
             <p>Hulimanagala Main Road</p>
-            <p>DElectronic City Phase 1, Bengaluru</p>
+            <p>Electronic City Phase 1, Bengaluru</p>
             <p>Karnataka, India</p>
             <DirectionsLink place="The Royal Paratha Box, Electronic City, Bengaluru, India" />
           </div>          
@@ -27,7 +27,11 @@ const Footer = () => {
             <div className="footer-grid-item">            
               <Link to="/privacypolicy" className="text-white">
                 Privacy Policy
-              </Link>          
+              </Link> 
+              <p />
+              <h3>Our Timings</h3>  
+            <p>WEEKDAYS (MO-TH) 9:30 am - 3:30pm, 6:00pm - 10:00pm</p>
+            <p>WEEKENDS (FR - SU)  9:30 am - 3:30pm, 6:00pm - 11:00pm</p>
           </div>
         </div>        
       </div>

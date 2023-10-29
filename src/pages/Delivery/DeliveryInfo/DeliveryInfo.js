@@ -1,5 +1,6 @@
 import React from 'react'
 import {BsFillStarFill} from 'react-icons/bs'
+import { Link } from "react-router-dom";
 
 import './DeliveryInfo.css'
 
@@ -12,11 +13,14 @@ const DeliveryInfo = () => {
                     <div className='delivery-iconbox'>
                         <BsFillStarFill color="#c3512f" />
                         <h3 className='heading-tertiary'>
-                            order with <span>woocommerce</span>
+                            Order Using <span>Whatsapp / Call</span>
                         </h3>
                     </div>
 
-                    <p>You can power your own online ordering system with the free Woocommerce Plugin. You will receive an E-Mail for each order and can change the payment settings to accept anything from credit card, to paypal to bank deposit. The number of products you can add have no limit. Even variations are possible</p>
+                    <p>You can place an order by Whatsapp / Call to our phone number: </p>
+                    <Link to="tel:+916366579691">
+              (+91) 6366 579 691
+            </Link> 
                 </div>
 
                 <div>
@@ -27,7 +31,7 @@ const DeliveryInfo = () => {
                         </h3>
                     </div>
 
-                    <p>You can power your own online ordering system with the free Woocommerce Plugin. You will receive an E-Mail for each order and can change the payment settings to accept anything from credit card, to paypal to bank deposit. The number of products you can add have no limit. Even variations are possible</p>
+                    <p>We do delivery using third party vendors, Actual delivery cost may / may not apply. Please check while placing the Order. You can customize your orders too !!!</p>
                 </div>
             </div>
         </div>

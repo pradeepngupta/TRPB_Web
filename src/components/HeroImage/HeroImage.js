@@ -1,5 +1,6 @@
 import React from "react";
 import "./HeroImage.css";
+import NewLineText from "./NewLineText";
 
 const HeroImage = (props) => {
   return (
@@ -14,7 +15,7 @@ const HeroImage = (props) => {
     >
         <div className="banner-content">
             <h1 className="heading-primary">{props.heading}</h1>
-            <p className="text-white">{props.text}</p>
+            <NewLineText text={props.text} />
         </div>
     </div>
   );
