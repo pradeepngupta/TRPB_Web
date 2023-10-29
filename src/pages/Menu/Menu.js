@@ -1,11 +1,8 @@
 import React from "react";
 import HeroImage from "../../components/HeroImage/HeroImage";
-import bgImage from "../../assets/coffee.jpg";
-import MenuOfTheDay from "./MenuOfTheDay/MenuOfTheDay";
-import Breakfast from './Breakfast/Breakfast'
-import LunchTime from "./LunchTime/LunchTime";
-import CoffeeSelection from './CoffeeSelection/CoffeeSelection'
-import Beverages from './Beverages/Beverages'
+import bgImage from "../../assets/Paratha1.jpg";
+import MenuInfo from "./MenuInfo/MenuInfo";
+import MenuItems from "./MenuItems/MenuItems";
 
 const Menu = () => {
   return (
@@ -15,11 +12,8 @@ const Menu = () => {
         heading={["Our ", <span>Menu</span>]}
         text="Everything we have to offer at one glance"
       />
-      <MenuOfTheDay />
-      <Breakfast />
-      <LunchTime />
-      <CoffeeSelection />
-      <Beverages />
+      <MenuInfo/>
+      <MenuItems/>
     </div>
   );
 };
