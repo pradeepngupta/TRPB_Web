@@ -16,43 +16,43 @@ const Gallery = () => {
   return (
     <div className='gallery'>
         <figure className='gallery__item gallery__item-1'>
-            <img src={imageItem1} className='gallery__img' />
+            <img src={imageItem1} className='gallery__img' alt='Gallery Image1' />
         </figure>
 
         <figure className='gallery__item gallery__item-2'>
-            <img src={imageItem2}  className='gallery__img' />
+            <img src={imageItem2}  className='gallery__img' alt='Gallery Image2'/>
         </figure>
 
         <figure className='gallery__item gallery__item-3'>
-            <img src={imageItem3}  className='gallery__img' />
+            <img src={imageItem3}  className='gallery__img' alt='Gallery Image3'/>
         </figure>
 
         <figure className='gallery__item gallery__item-4'>
-            <img src={imageItem4}  className='gallery__img' />
+            <img src={imageItem4}  className='gallery__img' alt='Gallery Image4'/>
         </figure>
 
         <figure className='gallery__item gallery__item-5'>
-            <img src={imageItem5}  className='gallery__img' />
+            <img src={imageItem5}  className='gallery__img' alt='Gallery Image5'/>
         </figure>
 
         <figure className='gallery__item gallery__item-6'>
-            <img src={imageItem6}  className='gallery__img' />
+            <img src={imageItem6}  className='gallery__img' alt='Gallery Image6'/>
         </figure>
 
         <figure className='gallery__item gallery__item-7'>
-            <img src={imageItem7}  className='gallery__img' />
+            <img src={imageItem7}  className='gallery__img' alt='Gallery Image7' />
         </figure>
 
         <figure className='gallery__item gallery__item-8'>
-            <img src={imageItem8}  className='gallery__img' />
+            <img src={imageItem8}  className='gallery__img' alt='Gallery Image8'/>
         </figure>
 
         <figure className='gallery__item gallery__item-9'>
-            <img src={imageItem9}  className='gallery__img' />
+            <img src={imageItem9}  className='gallery__img' alt='Gallery Image9'/>
         </figure>
 
         <figure className='gallery__item gallery__item-10'>
-            <img src={imageItem10}  className='gallery__img' />
+            <img src={imageItem10}  className='gallery__img' alt='Gallery Image10'/>
         </figure>
     </div>
   )
