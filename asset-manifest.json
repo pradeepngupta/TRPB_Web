@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/TRPB_Web/static/css/main.abe78998.css",
+    "main.js": "/TRPB_Web/static/js/main.77547953.js",
+    "static/media/pasta.jpg": "/TRPB_Web/static/media/pasta.bb6c0d808a9b0c20bc34.jpg",
+    "static/media/kheer.jpg": "/TRPB_Web/static/media/kheer.fec38c14bca6a5853ea4.jpg",
+    "static/media/tea.jpg": "/TRPB_Web/static/media/tea.cdeed48a0bfc7912c2c4.jpg",
+    "static/media/Paratha4.jpg": "/TRPB_Web/static/media/Paratha4.7f027f9eb5670e2fa230.jpg",
+    "static/media/Paratha3.jpg": "/TRPB_Web/static/media/Paratha3.fe590954365dd0ab2b77.jpg",
+    "static/media/MENU-Royal-Paratha-Combo.jpg": "/TRPB_Web/static/media/MENU-Royal-Paratha-Combo.5de1d8344076f771bf1e.jpg",
+    "static/media/Paratha2.jpg": "/TRPB_Web/static/media/Paratha2.ae7f7a7ccc0a3165945d.jpg",
+    "static/media/MENU-Fav-Royal-Paratha.jpg": "/TRPB_Web/static/media/MENU-Fav-Royal-Paratha.e87b7a1752fee27564ed.jpg",
+    "static/media/MENU-Cheese-Exotic-Royal-Paratha.jpg": "/TRPB_Web/static/media/MENU-Cheese-Exotic-Royal-Paratha.6184e7a3e2689b71ec97.jpg",
+    "static/media/MENU-Classic-Royal-Paratha.jpg": "/TRPB_Web/static/media/MENU-Classic-Royal-Paratha.12e6712527a8b665fb06.jpg",
+    "static/media/chef.jpg": "/TRPB_Web/static/media/chef.6ce5df0889f6651df20c.jpg",
+    "static/media/Lassi.jpg": "/TRPB_Web/static/media/Lassi.c2c864f3abe70470202f.jpg",
+    "static/media/MENU-TRPB-Beverages.jpg": "/TRPB_Web/static/media/MENU-TRPB-Beverages.fc8e311d683003cb665a.jpg",
+    "static/media/MENU-Paratha-Accompaniments.jpg": "/TRPB_Web/static/media/MENU-Paratha-Accompaniments.4988735bc5bd419c5964.jpg",
+    "static/media/papad.jpg": "/TRPB_Web/static/media/papad.a70c289de006d3601bb2.jpg",
+    "static/media/MENU-TRPB-Desserts.jpg": "/TRPB_Web/static/media/MENU-TRPB-Desserts.5ec5fde68230c8889587.jpg",
+    "static/media/Paratha1.jpg": "/TRPB_Web/static/media/Paratha1.019d76e5d47a4dd501be.jpg",
+    "static/media/Paratha5.jpg": "/TRPB_Web/static/media/Paratha5.5b409d545d3d19c04643.jpg",
+    "static/media/logo.png": "/TRPB_Web/static/media/logo.ff17f37a564f7f3a51ad.png",
+    "static/media/slick.svg": "/TRPB_Web/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/TRPB_Web/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/TRPB_Web/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/TRPB_Web/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/TRPB_Web/index.html",
+    "main.abe78998.css.map": "/TRPB_Web/static/css/main.abe78998.css.map",
+    "main.77547953.js.map": "/TRPB_Web/static/js/main.77547953.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abe78998.css",
+    "static/js/main.77547953.js"
+  ]
+}
