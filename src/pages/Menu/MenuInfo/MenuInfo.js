@@ -28,7 +28,7 @@ const MenuInfo = () => {
                 <span className="special-word">Unlimited Royal Paratha</span> - Only for Dine in. 
               </p>
               <p>
-                <span className="special-word">Family Pack Royal Paratha</span> - For Dine in / Take Away / Home Delivery (In the packs of 3 / 6 /9 Royal Paratha).
+                <span className="special-word">Family Pack Royal Paratha</span> - For Dine in / Take Away / Home Delivery - In the packs of 3 (or muliples) Royal Paratha.
               </p>
             </div>
           </div>

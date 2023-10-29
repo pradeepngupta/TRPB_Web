@@ -13,25 +13,25 @@ const MenuItems = () => {
     return (
         <div>
             <figure>
-                <img src={menuPage1} className='menu__img'></img>
+                <img src={menuPage1} className='menu__img' alt='Classic Royal Paratha'></img>
             </figure>
             <figure>
-                <img src={menuPage2} className='menu__img'></img>
+                <img src={menuPage2} className='menu__img' alt='Favorite Royal Paratha'></img>
             </figure>
             <figure>
-                <img src={menuPage3} className='menu__img'></img>
+                <img src={menuPage3} className='menu__img' alt='Cheese Exotic Royal Paratha'></img>
             </figure>
             <figure>
-                <img src={menuPage4} className='menu__img'></img>
+                <img src={menuPage4} className='menu__img' alt='Royal Paratha Combo'></img>
             </figure>
             <figure>
-                <img src={menuPage5} className='menu__img'></img>
+                <img src={menuPage5} className='menu__img' alt='Paratha Accompaniments'></img>
             </figure>
             <figure>
-                <img src={menuPage6} className='menu__img'></img>
+                <img src={menuPage6} className='menu__img' alt='TRPB Desserts'></img>
             </figure>
             <figure>
-                <img src={menuPage7} className='menu__img'></img>
+                <img src={menuPage7} className='menu__img' alt='TRPB Beverages'></img>
             </figure>
         </div>
     );
